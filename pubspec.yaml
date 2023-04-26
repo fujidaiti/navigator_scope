@@ -1,0 +1,19 @@
+name: navigator_scope
+description: 'A simple package for nested navigation. 
+No need to learn a bunch of new APIs. 
+It will work exactly as you imagine.'
+version: 1.0.0-pre
+repository: https://github.com/fujidaiti/exprollable_page_view/tree/master
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
