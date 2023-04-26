@@ -1,4 +1,4 @@
-[![Pub](https://img.shields.io/pub/v/navigator_scope.svg?logo=flutter&color=blue&style=flat-square)](https://pub.dev/packages/exprollable_page_view) [![Docs](https://img.shields.io/badge/-API%20Reference-orange?style=flat-square)](https://pub.dev/documentation/navigator_scope/latest/)
+[![Pub](https://img.shields.io/pub/v/navigator_scope.svg?logo=flutter&color=blue&style=flat-square)](https://pub.dev/packages/navigator_scope) [![Docs](https://img.shields.io/badge/-API%20Reference-orange?style=flat-square)](https://pub.dev/documentation/navigator_scope/latest/)
 
 # NavigatorScope
 
