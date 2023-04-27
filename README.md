@@ -18,7 +18,7 @@
 
 A simple package for nested navigation. No need to learn a bunch of new APIs. It will work exactly as you imagine.
 
-![navigator_scope_demo](https://user-images.githubusercontent.com/68946713/234653804-c29aae3b-23b0-4740-be60-35696bf30fc3.gif)
+<img width="360" alt="demo" src="https://user-images.githubusercontent.com/68946713/234653804-c29aae3b-23b0-4740-be60-35696bf30fc3.gif">
 
 
 
