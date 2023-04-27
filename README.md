@@ -6,7 +6,7 @@
 >
 > 🌐 : [go_router](https://pub.dev/packages/go_router), [beamer](https://pub.dev/packages/beamer), [qlevar_router](https://pub.dev/packages/qlevar_router#nested-navigators), etc...
 >
-> 😵 : Wait, I just want nested navigation, I don't need deep linking, URL based navigation, or back buttons for brower... Is there any other easy way?
+> 😵 : Wait, I just want a persitent nav bar, I don't need deep linking, URL based navigation, or back buttons for brower... Is there any other easy way?
 >
 > 🌐 : ...
 >
