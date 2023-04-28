@@ -18,8 +18,7 @@
 
 A simple package for nested navigation. No need to learn a bunch of new APIs. It will work exactly as you imagine.
 
-<img width="300" alt="demo" src="https://user-images.githubusercontent.com/68946713/234653804-c29aae3b-23b0-4740-be60-35696bf30fc3.gif">
-<img width="300" alt="demo2" src="https://user-images.githubusercontent.com/68946713/235056721-36cf881f-a760-43e1-9cea-35b476c85201.gif">
+<img width="300" alt="demo" src="https://user-images.githubusercontent.com/68946713/234653804-c29aae3b-23b0-4740-be60-35696bf30fc3.gif"> <img width="300" alt="demo2" src="https://user-images.githubusercontent.com/68946713/235056721-36cf881f-a760-43e1-9cea-35b476c85201.gif">
 
 ## Pros & Cons
 
