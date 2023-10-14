@@ -2,8 +2,8 @@ name: navigator_scope
 description: 'A simple package for nested navigation. 
 No need to learn a bunch of new APIs. 
 It will work exactly as you imagine.'
-version: 1.0.0
-repository: https://github.com/fujidaiti/exprollable_page_view/tree/master
+version: 1.0.1
+repository: https://github.com/fujidaiti/navigator_scope.git
 
 environment:
   sdk: ">=2.19.6 <4.0.0"
